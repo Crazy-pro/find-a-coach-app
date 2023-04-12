@@ -4,7 +4,7 @@ Find a Coach App is the main demo project from 'Vue JS - The Complete Guide Cour
 
 
 ### How to start:
-- Read HOW-TO-USE.pdf
+- Read HOW-TO-USE.pdf 
 
 
 
